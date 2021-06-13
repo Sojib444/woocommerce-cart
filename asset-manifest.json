@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/woocommerce-cart/static/css/main.19d01fd7.chunk.css",
+    "main.js": "/woocommerce-cart/static/js/main.c5b185fb.chunk.js",
+    "main.js.map": "/woocommerce-cart/static/js/main.c5b185fb.chunk.js.map",
+    "runtime-main.js": "/woocommerce-cart/static/js/runtime-main.bdd5e459.js",
+    "runtime-main.js.map": "/woocommerce-cart/static/js/runtime-main.bdd5e459.js.map",
+    "static/js/2.46a2790d.chunk.js": "/woocommerce-cart/static/js/2.46a2790d.chunk.js",
+    "static/js/2.46a2790d.chunk.js.map": "/woocommerce-cart/static/js/2.46a2790d.chunk.js.map",
+    "index.html": "/woocommerce-cart/index.html",
+    "static/css/main.19d01fd7.chunk.css.map": "/woocommerce-cart/static/css/main.19d01fd7.chunk.css.map",
+    "static/js/2.46a2790d.chunk.js.LICENSE.txt": "/woocommerce-cart/static/js/2.46a2790d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd5e459.js",
+    "static/js/2.46a2790d.chunk.js",
+    "static/css/main.19d01fd7.chunk.css",
+    "static/js/main.c5b185fb.chunk.js"
+  ]
+}
